@@ -17,4 +17,4 @@ number_grid = [
     [7, 8, 9],
     [0]
 ]
-print(number_grid[0][2])        # access a specific element in the grid. [0] is column index [2] is row index
+print(number_grid[0][2])  # access a specific element in the grid. [0] is column index [2] is row index
